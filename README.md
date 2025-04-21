@@ -1,4 +1,4 @@
-![Viper Logo](images/viperlogo.png)
+![Viper Logo](viperlogo.png)
 
 # Viper Programming Language
 A simple, Python-based scripting language focused on **Networking** and **Database** operations.
