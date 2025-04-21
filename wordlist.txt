@@ -1,0 +1,17 @@
+root
+admin
+password
+123456
+12345678
+qwerty
+user
+test
+administrator
+pass
+secret
+<empty>
+1234
+12345
+123456789
+password123
+password! 

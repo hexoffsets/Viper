@@ -1,0 +1,5 @@
+requests==2.31.0
+sqlite3 
+paramiko>=2.7
+ping3>=4.0 
+cryptography>=3.4 
